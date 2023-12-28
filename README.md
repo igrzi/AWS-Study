@@ -13,3 +13,4 @@ This is my repo for notetaking and some interesting things that help me to learn
 ### I'm currently following this Udemy course:
 * [AWS, na prática!](https://www.udemy.com/course/aws-na-pratica/)
 
+* [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
