@@ -14,3 +14,7 @@ This is my repo for notetaking and some interesting things that help me to learn
 * [AWS, na prática!](https://www.udemy.com/course/aws-na-pratica/)
 
 * [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+
+* [AWS Instance Purchasing Options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
+
+* [AWS Pricing Calculator](https://calculator.aws/#/)
