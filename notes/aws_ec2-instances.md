@@ -1,5 +1,6 @@
 # EC2 Instance Types
 There are different focused Instance Types, some of them are:  
+
 * **General Purpose**
 * **CPU** Optimized
 * **RAM** Optimized
@@ -99,4 +100,5 @@ There are different focused Instance Types, some of them are:
 > * Im4gn
 > * I4g
 
-28/12/2023
+<br>
+< 28/12/2023 >
