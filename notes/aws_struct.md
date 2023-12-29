@@ -6,7 +6,7 @@
 <br></br>
 
 # TLDR
-* AWS is responsible for ***the*** cloud security.
+* AWS is responsible for ***THE*** cloud security.
 * You are responsible for the security ***IN*** the cloud.
 
 ![AWS Shared Responsibility Model](/static/aws_struct)
