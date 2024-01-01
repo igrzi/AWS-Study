@@ -32,6 +32,7 @@ Cost Explorer is a service that validates your workspace and recommends cost-sav
 Savings Plans offer discounted prices in *exchange for commitment*. Commitment terms cannot be altered post-payment. As your usage changes, you have the option to purchase ***Additional Saving Plans***.
 
 - You can increase your workload hours with Additional Saving Plans, but reducing them is not possible.
+
 - *EC2 Instances* and *Compute* plans apply to EC2 instances in Amazon EMR, Amazon EKR, and Amazon ECS. However, **Saving Plans** do not cover Amazon EKS charges, though the underlying EC2 instances are included.
 - Prices for Saving Plans running SUSE Linux Enterprise Servers (SLES) differ from those of Reserved Instances (RI).
 - Saving Plans aren't available in China regions.
