@@ -18,3 +18,5 @@ This is my repo for notetaking and some interesting things that help me to learn
 * [AWS Instance Purchasing Options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
 
 * [AWS Pricing Calculator](https://calculator.aws/#/)
+
+* [AWS Instance Lifecycle](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-lifecycle.html)
