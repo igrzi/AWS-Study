@@ -9,3 +9,7 @@ We have ***two main shutdown behaviours***:
 This protection starts **disabled**, but can be turned on when creating/editing an instance.
 
 This preventes accidental termination of an instance.
+
+## Example:
+
+Suppose you have an important production instance. Enabling Termination Protection ensures that the instance cannot be terminated accidentally, providing additional safeguards for your critical resources.
