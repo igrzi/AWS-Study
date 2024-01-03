@@ -9,7 +9,7 @@ The illustration below shows the different stages, notice you can't stop and sta
 # Instance States
 
 | State          |        Description                       |     Instance Billing    | 
-|----------------|------------------------------------------|-------------------------|
+|----------------|------------------------------------------|:-----------------------:|
 | Pending        | Preparing to enter *running* state       |     ***Not Billed***    |
 | Running        | Running and ready to use                 |       ***Billed***      |
 | Stopping       | Instance is preparing to be stopped      |     ***Not Billed***    |
