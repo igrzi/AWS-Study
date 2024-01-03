@@ -10,13 +10,20 @@ This is my repo for notetaking and some interesting things that help me to learn
 
 ## References
 
-### I'm currently following this Udemy course:
+#### I'm currently following this Udemy course:
 * [AWS, na prática!](https://www.udemy.com/course/aws-na-pratica/)
 
-* [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+#### Here are some interesting references:
 
-* [AWS Instance Purchasing Options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
+- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
 
-* [AWS Pricing Calculator](https://calculator.aws/#/)
+- [AWS Instance Purchasing Options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
 
-* [AWS Instance Lifecycle](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-lifecycle.html)
+- [AWS Pricing Calculator](https://calculator.aws/#/)
+
+- [AWS Instance Lifecycle](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-lifecycle.html)
+
+- [Amazon Machine Image (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
+
+    - [AMI Catalog](https://us-east-2.console.aws.amazon.com/ec2/home?region=us-east-2#AMICatalog:)
+
