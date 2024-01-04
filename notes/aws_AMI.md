@@ -39,3 +39,15 @@ You can share an AMI with:
 - You ***can't copy*** a cryptographed AMI that has been shared with you.
 
 - You ***can't copy*** an AMI with a billing product code that has been shared with you by another account, like Windows AMIs.
+
+## AMI Deletion
+You just need an ***image id***.
+
+> aws ec2 deregister-image --image-id "..."  
+
+You can also this as parameters:
+> - ***--dry-run***: check if you have the required permission for the action.
+
+We can check more parameters using the following command:
+
+> aws ec2 deregister-image help
