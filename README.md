@@ -28,3 +28,7 @@ This is my repo for notetaking and some interesting things that help me to learn
     - [AMI Catalog](https://us-east-2.console.aws.amazon.com/ec2/home?region=us-east-2#AMICatalog:)
 
 - [Amazon Elastic Block Store](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
+
+- [AWS EBS Snapshots](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html)
+
+- [Amazon Data Lifecycle Manager](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html)
