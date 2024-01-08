@@ -45,3 +45,35 @@ In here we have two types of drives:
     - There isn't compatibility with initializable *sc1 volumes*.
     - Minimum size: 500GB | Maximum size: 16TB
     - Maximum of IOPS: 250 IOPS
+
+## EBS Creation CLI
+This will display some possible command options:
+> aws ec2 help | grep volume
+
+
+This will initialize a new volume:
+> aws ec2 create-volume --availability-zone "..."
+
+Some interesting additional parameters are: 
+- ***--availability-zone***: This is the ID of the Availability Zone. For example, us-east-2
+
+- ***--encrypted***: Is a boolean value that indicates if the volume should or shouldn't be encrypted.
+
+- ***--iops***: This is the number of I/O Operations Per Second
+
+- ***--size***: This is an integer that represent the size, in GiB, if you specify a snapshot the default is the snapshot size.
+
+- ***--volume-type***: This specifies the volume type, the options are the ones mentioned in the ***HDD and SSD*** volume types section. **The default volume type is gp2**.
+
+## EBS Attaching CLI
+
+> aws ec2 attach-volume --device "..." --instance-id "..." --volume-id "..."
+
+- ***--device***: The device name (for example, */dev/sdh* or *xvd*)
+
+- ***--instance-id***: ID of the instance you want to attach the volume.
+
+- ***--volume-id***: ID of the EBS Volume. EBS volume and instance should be in the same AZ.
+
+#### To list mounted volumes when doing SSH, type:
+> lsblk
