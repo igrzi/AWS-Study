@@ -9,7 +9,7 @@ This will list all instances configured on your account, it is the same informat
 .
 > aws ec2 run-instances --image-id "..." --count 1 --instance-type "..." --key-name "..." --security-group-ids "..." --subnet-id "..."
 
-This command has is pretty lengthy, let's dissect it:
+This command is pretty lengthy, let's dissect it:
 - ***aws ec2 run-instances***: This part initiates the process of launching a new EC2 instance.
 
 - ***--image-id***: Specifies the [Amazon Machine Image (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) ID.
