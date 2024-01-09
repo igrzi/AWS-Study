@@ -2,7 +2,7 @@
 
 ![Security Group Overview](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/security-group-overview.png)
 
-A *security group* is like a virtual firewall that controlls all traffic for one or more instances. The ***Security Group Rules*** controlls all incoming and outgoing traffic that have permission to reach all instances affected by this security group.
+A *security group* is like a virtual firewall that controlls all traffic for one or more instances. The ***Security Group Rules*** controlls all ***incoming and outgoing*** traffic that have permission to reach all instances affected by this security group.
 
 All rules are of ***permissive*** type and are **stateful**. This works in compliance with the National Institute of Standards and Technology (NIST).
 
