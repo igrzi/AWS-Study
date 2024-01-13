@@ -16,7 +16,7 @@ This command is pretty lengthy, let's dissect it:
 
 - ***--count***: Indicates the amount of instances you want to launch.
 
-- ***--instance-type***: Specifies the type of EC2 instance you want to launch, [see here](/notes/aws_ec2_instances.md) fore more details.
+- ***--instance-type***: Specifies the type of EC2 instance you want to launch, [see here](/notes/EC2/ec2_ec2_instances.md) fore more details.
 
 - ***--key-name***: Specifies the name of the key pair used for securing the instances. This is used for SSH access.
 

@@ -15,4 +15,4 @@ Local zones are designed to place ***computing power, storage and databases clos
 * High Demand
 * Single Digit milisecond latency to end-users
 
-### EC2 Instance Types [notes](./aws_ec2-instances.md) and [AWS Website](https://aws.amazon.com/ec2/instance-types/)
+### EC2 Instance Types [notes](./ec2_ec2_instances.md) and [AWS Website](https://aws.amazon.com/ec2/instance-types/)

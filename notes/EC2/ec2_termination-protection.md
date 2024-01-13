@@ -10,7 +10,7 @@ This protection starts **disabled**, but can be turned on when creating/editing 
 
 This preventes accidental termination of an instance. The button even becomes disabled.
 
-For more about ***instance states*** check [here.](/notes/aws_ec2_instances-states.md)
+For more about ***instance states*** check [here.](ec2_ec2_instances-states.md)
 
 ## Example:
 Suppose you have an important production instance. Enabling Termination Protection ensures that the instance cannot be terminated accidentally, providing additional safeguards for your critical resources.

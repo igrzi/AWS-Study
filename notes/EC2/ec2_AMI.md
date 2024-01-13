@@ -33,7 +33,7 @@ You can share an AMI with:
 
 - *Other AWS accounts* by using the **account ID**.
 
-- *Other regions* by generating a [snapshot](/notes/aws_AMI-snapshot.md).
+- *Other regions* by generating a [snapshot](/notes/EC2/ec2_AMI-snapshot.md).
 
 ### ATTENTION:
 - You ***can't copy*** a cryptographed AMI that has been shared with you.

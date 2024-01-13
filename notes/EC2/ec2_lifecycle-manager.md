@@ -17,7 +17,7 @@ This is a valuable tool, because it helps you to automate a important feature, b
 - Reduce storage costs by automatically deleting outdated backups.
 - Create disaster recovery backup policies that backup data to isolated Regions or accounts.
 
-When combined with the features of [Amazon EventBridge](aws_eventbridge.md) and [AWS CloudTrail](aws_cloudtrail.md), it provides a complete and complex backup solution for EC2 instances and individual EBS volumes.
+When combined with the features of [Amazon EventBridge](ec2_eventbridge.md) and [AWS CloudTrail](ec2_cloudtrail.md), it provides a complete and complex backup solution for EC2 instances and individual EBS volumes.
 
 ### Important
 - It can't manage snapshots or AMIs created by any other means.

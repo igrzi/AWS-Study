@@ -1,6 +1,6 @@
 # Amazon Elastic Block Store
 
-It's a storage system in blocks, highly performatic and developed to be used with [Amazon Elastic Compute](aws_ec2.md).
+It's a storage system in blocks, highly performatic and developed to be used with [Amazon Elastic Compute](ec2_ec2.md).
 
 #### The instance needs to be in the same *region* as the EBS volume.
 
