@@ -45,3 +45,29 @@ The ELB works with 3 main types of *HTTP return codes*.
     - 502: Bad Gateway.
     - 503: Service Unavailable.
     - 504: Gateway timeout.
+
+## Creating a Load Balancer Through AWS CLI
+
+### Creating a Elastic Load Balancer
+
+```bash
+aws elbv2 create-load-balancer --name "..." --subnets "..." "..." --security-groups "..."
+```
+
+### Creating a Target Group
+
+```bash
+aws elbv2 create-target-group --name "..." --protocol "..." --port "..." --vpc-id "..."
+```
+
+### Creating a Target (Instances) on Target Groups
+
+```bash
+aws elbv2 register-targets --target-group-arn "..." --targets Id="..." Id="..."
+```
+
+### Creating a Listener and associating to a Target Group ELB
+
+```bash
+aws elbv2 create-listener --load-balancer-arn "..." --protocol "..." --port "..."  --default-actions Type="...",TargetGroupArn="..."
+```
