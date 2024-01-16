@@ -32,3 +32,10 @@ This is my repo for notetaking and some interesting things that help me to learn
 - [AWS EBS Snapshots](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html)
 
 - [Amazon Data Lifecycle Manager](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html)
+
+## VPC Related References
+
+- [AWS Networking Basics For Programmers](https://www.youtube.com/watch?v=2doSoMN2xvI)
+    - This is a WONDERFUL video showing the basics of how VPCs work!
+
+- [What is the Slash Notation at the End of IP Addresses](https://medium.com/@travisdotmedia/what-is-the-slash-notation-at-the-end-of-ip-addresses-8-16-24-d5c50ac57c5)
