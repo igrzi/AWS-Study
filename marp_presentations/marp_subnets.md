@@ -21,7 +21,7 @@ A quantidade de subnets possíveis se baseia na gama de IPs determinada na cria�
 
 ---
 
-![height:200px](../marp_statics/CIDR_ranges.png)
+![height:200px](marp_statics/CIDR_ranges.png)
 
 * Neste exemplo, temos possíveis IPs no range
     * ***192.168.0.1 até 192.168.255.255***
@@ -54,7 +54,7 @@ Pois temos IPs reservados, como:
 
 ---
 
-![bg left height:500px](../marp_statics/instances_subnets.png)
+![bg left height:500px](marp_statics/instances_subnets.png)
 
 # *my-test-VPC*
 
