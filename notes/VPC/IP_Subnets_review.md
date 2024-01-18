@@ -60,3 +60,22 @@ These are called *Loop Back* addresses, they are used for network testing, the o
 Each device in your local network has a unique private IP assigned by your router. When these devices access the internet, the NAT device assigns them temporary public IP addresses from your Internet Service Provider (ISP). 
 
 This allows multiple devices within your local network to share a common public IP for internet communication.
+
+
+## Basic VPC Example
+
+![Basic VPC Example](/marp_presentations/marp_statics/instances_subnets.png)
+
+## Internet Gateway & NAT Gateway
+
+### Internet Gateway
+- Allows communication between the VPC and Internet, allows for **INPUT** and **OUTPUT** traffic
+
+- Has two purposes:
+    - Provide internet through ***routing table***
+    - Allows for ***NAT***
+
+### NAT Gateway
+- Allows communication between VPC and Internet, only allowing only for **OUTPUT** traffic
+
+- Converts network addresses (NAT) allowing for private subnet instances to access internet, but ***NOT*** allowing the internet to access your private subnet. 
