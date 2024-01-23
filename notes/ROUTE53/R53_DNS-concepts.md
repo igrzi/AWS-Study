@@ -7,7 +7,7 @@ The ***Domain Name System*** converts readable domain names to **IP addresses**!
 ## DNS Searches
 
 ### Direct Lookup
-- Converts a hostname to a IP Address
+- Converts a hostname to an IP Address
 
 ### Reverse Lookup
 - Converts a IP Address to a hostname
