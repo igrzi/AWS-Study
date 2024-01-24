@@ -5,11 +5,11 @@ Amazon S3 is a **global** storage system for the internet, designed to ***work i
 It's used to storage and/or retrieve any amount of data, at any moment, from anywhere in the web.
 
 Some Amazon S3 advantages are:
-    - Buckets creation
-    - Data storage
-    - Data download
-    - Permissions
-    - Default interface
+- Buckets creation
+- Data storage
+- Data download
+- Permissions
+- Default interface
 
 ## Some more basic concepts
 
